@@ -161,7 +161,6 @@ class Person() {
           }
           case None => {
             favoriteStore.at(tshirtId).set(None)
-            tshirts.at(tshirtId).set(None)
           }
         }
       }
