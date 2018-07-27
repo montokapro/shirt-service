@@ -1,0 +1,1106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/scala/app/structure/Tshirt.scala" line="24" mnemonic="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cfc67385-458c-4d99-9a43-e9303483655a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/actor/Greeter1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/actor/Greeter2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/actor/HealthCheckActor.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/actor/Main.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/actor/MainActor.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/actor/ShirtActor.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/actor/Greeter2Spec.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/actor/ShirtActorSpec.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Person.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/simple/Person.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1110">
+              <caret line="78" column="45" selection-start-line="78" selection-start-column="45" selection-end-line="78" selection-end-column="45" />
+              <folding>
+                <element signature="e#16#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersonSpec.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/simple/PersonSpec.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="975">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
+              <folding>
+                <element signature="e#16#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rest.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/simple/Rest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShirtActorSpec.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/actor/ShirtActorSpec.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="46" column="35" selection-end-line="102" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/actor/Main.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+              <folding>
+                <element signature="e#15#80#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActorSystem.scala" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor-typed_2.12/srcs/akka-actor-typed_2.12-2.5.12-sources.jar!/akka/actor/typed/ActorSystem.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2295">
+              <caret line="171" column="6" selection-start-line="171" selection-start-column="6" selection-end-line="171" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HealthCheckActor.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/actor/HealthCheckActor.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShirtActor.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/actor/ShirtActor.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+              <folding>
+                <element signature="e#15#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActor.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/actor/MainActor.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+              <folding>
+                <element signature="e#15#80#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActorContext.scala" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor-typed_2.12/srcs/akka-actor-typed_2.12-2.5.12-sources.jar!/akka/actor/typed/scaladsl/ActorContext.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1800">
+              <caret line="130" column="55" selection-start-line="130" selection-start-column="55" selection-end-line="130" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>appendElem</find>
+      <find>ORder</find>
+      <find>key</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/common/structure/Store.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/common/structure/Cell.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/common/structure/Log.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/common/impl/VarCell.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/common/impl/MapStoreTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/app/structure/Tshirt.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Person.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/TShirt.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/common/util/StoreUtil.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/common/trait/Store.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/common/trait/Log.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/app/structure/Person.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/common/impl/AccessMapStore.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/common/impl/MapStore2.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/common/impl/AccessOptionMapStoreSpec.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/common/impl/OptionMapStore.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/common/impl/MapStore.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/common/impl/SeqLog.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/common/impl/SeqLogSpec.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/simple/Rest.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/common/impl/MapStoreSpec.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/common/impl/AccessMapStoreSpec.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/simple/PersonSpec.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/common/impl/AccessMapStore.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/rest/Rest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/api/util/RestUtil.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/api/Rest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/api/impl/MapStore.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/api/impl/RestStore.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/simple/Person.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/api/RestStoreSpec.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/actor/RestStore.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/actor/Greeter.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/actor/GreeterApp.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/actor/Shirt.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/actor/ShirtSpec.scala" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/actor/impl/SquarerImpl.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/actor/impl/PingActor.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/actor/impl/DoctorActor.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/actor/impl/ShirtActor.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/actor/impl/MainActor.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/actor/Greeter2Spec.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/actor/Greeter1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/actor/Greeter2.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/actor/HealthCheckActor.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/actor/ShirtActorSpec.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/main/MainActor.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/actor/Main.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/actor/ShirtActor.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/actor/MainActor.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="y" value="27" />
+    <option name="width" value="642" />
+    <option name="height" value="774" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="menu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="menu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="menu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="menu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="menu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="actor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="menu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="menu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="menu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="structure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="menu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="menu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="menu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="trait" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="menu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="simple" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="menu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="menu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="menu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="actor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="menu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="menu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="menu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="simple" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Scala" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../memoize/scala" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="actor" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main" />
+      <recent name="actor" />
+      <recent name="api.impl" />
+      <recent name="rest" />
+      <recent name="common.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala/app/structure" />
+      <recent name="$PROJECT_DIR$/src/main/scala/common/message" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="actor.Main" />
+      <module name="menu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="actor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Greeter2Spec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="menu" />
+      <setting name="path" value="actor.Greeter2Spec" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Class" />
+      <setting name="path" value="actor.Greeter2Spec" />
+    </configuration>
+    <configuration name="PersonSpec.A Person should garbage collection should be safe" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="menu" />
+      <setting name="path" value="simple.PersonSpec" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Test name" />
+      <setting name="path" value="simple.PersonSpec" />
+      <setting name="testName" value="A Person should garbage collection should be safe" />
+    </configuration>
+    <configuration name="RestStoreSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="menu" />
+      <setting name="path" value="api.RestStoreSpec" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Class" />
+      <setting name="path" value="api.RestStoreSpec" />
+    </configuration>
+    <configuration name="ShirtActorSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="menu" />
+      <setting name="path" value="actor.ShirtActorSpec" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Class" />
+      <setting name="path" value="actor.ShirtActorSpec" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="ScalaTest.PersonSpec.A Person should garbage collection should be safe" />
+      <item itemvalue="ScalaTest.RestStoreSpec" />
+      <item itemvalue="ScalaTest.Greeter2Spec" />
+      <item itemvalue="ScalaTest.ShirtActorSpec" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="ScalaTest.ShirtActorSpec" />
+        <item itemvalue="ScalaTest.Greeter2Spec" />
+        <item itemvalue="ScalaTest.RestStoreSpec" />
+        <item itemvalue="ScalaTest.PersonSpec.A Person should garbage collection should be safe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="menu" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="menu" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="menu-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3058067434000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="4274312365" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3858275937" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../akka-http-microservice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../akka-samples/akka-sample-camel-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../akka-samples/akka-sample-distributed-data-java" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../akka-samples/akka-sample-fsm-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../akka-samples/akka-sample-main-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../akka-samples/akka-sample-persistence-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfc67385-458c-4d99-9a43-e9303483655a" name="Default" comment="" />
+      <created>1526700753251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526700753251</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PersonSpec_A_Person_should_garbage_collection_should_be_safe - 2018.07.10 at 21h 32m 22s.xml">
+      <configuration name="PersonSpec.A Person should garbage collection should be safe" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="PersonSpec_A_Person_should_garbage_collection_should_be_safe - 2018.07.10 at 21h 37m 02s.xml">
+      <configuration name="PersonSpec.A Person should garbage collection should be safe" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="PersonSpec_A_Person_should_garbage_collection_should_be_safe - 2018.07.10 at 21h 38m 56s.xml">
+      <configuration name="PersonSpec.A Person should garbage collection should be safe" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="PersonSpec_A_Person_should_garbage_collection_should_be_safe - 2018.07.10 at 21h 41m 41s.xml">
+      <configuration name="PersonSpec.A Person should garbage collection should be safe" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="PersonSpec_A_Person_should_garbage_collection_should_be_safe - 2018.07.10 at 21h 42m 51s.xml">
+      <configuration name="PersonSpec.A Person should garbage collection should be safe" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="PersonSpec_A_Person_should_garbage_collection_should_be_safe - 2018.07.10 at 21h 45m 14s.xml">
+      <configuration name="PersonSpec.A Person should garbage collection should be safe" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="RestStoreSpec - 2018.07.11 at 18h 20m 00s.xml">
+      <configuration name="RestStoreSpec" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="RestStoreSpec - 2018.07.11 at 18h 21m 07s.xml">
+      <configuration name="RestStoreSpec" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Greeter2Spec - 2018.07.11 at 21h 18m 53s.xml">
+      <configuration name="Greeter2Spec" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="ShirtActorSpec - 2018.07.12 at 19h 02m 35s.xml">
+      <configuration name="ShirtActorSpec" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="27" width="1282" height="774" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="SBT Console" order="9" />
+      <window_info anchor="right" id="sbt" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3276923" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38828126" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="11" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3276923" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.3276923" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/test/scala/common/impl/AccessMapStoreSpec.scala</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor-typed_2.12/srcs/akka-actor-typed_2.12-2.5.12-sources.jar!/akka/actor/typed/scaladsl/ActorContext.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="130" column="55" lean-forward="true" selection-start-line="130" selection-start-column="55" selection-end-line="130" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/actor/ShirtActor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#15#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="131" column="50" selection-start-line="131" selection-start-column="50" selection-end-line="131" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/collection/TraversableLike.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="518" column="6" selection-start-line="518" selection-start-column="6" selection-end-line="518" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/math/Ordering.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="288" column="19" selection-start-line="288" selection-start-column="14" selection-end-line="288" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/collection/IterableLike.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="143" column="25" lean-forward="true" selection-start-line="143" selection-start-column="25" selection-end-line="143" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/collection/GenSeqLike.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="160" column="52" selection-start-line="160" selection-start-column="42" selection-end-line="160" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/common/util/StoreUtil.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/OutfitLog.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/common/trait/Log.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/common/impl/OptionMapStore.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/common/trait/Store.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/collection/immutable/HashMap.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="101" column="16" selection-start-line="101" selection-start-column="16" selection-end-line="101" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/Predef.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7194">
+          <caret line="145" column="7" selection-start-line="145" selection-start-column="7" selection-end-line="145" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Person.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/common/impl/MapStoreSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/common/trait/Cell.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/common/impl/MapStore.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/common/impl/SeqLog.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/app/structure/CleanLogSet.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/common/impl/AccessMapStore.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/api/util/RestUtil.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/api/Rest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/common/impl/SeqLogSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="104" column="1" selection-start-line="104" selection-start-column="1" selection-end-line="104" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/common/impl/AccessMapStoreSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/api/impl/RestStore.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/actor/message/Log.scala" />
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-typed_2.12/srcs/akka-typed_2.12-2.5.8-sources.jar!/akka/typed/ActorSystem.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-367">
+          <caret line="164" column="6" selection-start-line="164" selection-start-column="6" selection-end-line="164" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/actor/GreeterApp.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/scala/api/RestStoreSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-testkit_2.12/srcs/akka-testkit_2.12-2.5.12-sources.jar!/akka/testkit/TestKit.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-412">
+          <caret line="895" column="13" selection-start-line="895" selection-start-column="13" selection-end-line="895" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor-typed_2.12/srcs/akka-actor-typed_2.12-2.5.12-sources.jar!/akka/actor/typed/Behavior.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="112" column="27" lean-forward="true" selection-start-line="112" selection-start-column="27" selection-end-line="112" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/srcs/akka-actor_2.12-2.5.12-sources.jar!/akka/actor/Props.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor-typed_2.12/srcs/akka-actor-typed_2.12-2.5.12-sources.jar!/akka/actor/typed/scaladsl/Behaviors.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="41" column="40" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-testkit-typed_2.12/srcs/akka-testkit-typed_2.12-2.5.12-sources.jar!/akka/testkit/typed/scaladsl/ActorTestKit.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/actor/Greeter2Spec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="2" column="43" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/actor/Greeter1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="41" selection-start-column="2" selection-end-line="26" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/actor/Greeter2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="15" column="33" lean-forward="true" selection-start-column="2" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor-typed_2.12/srcs/akka-actor-typed_2.12-2.5.12-sources.jar!/akka/actor/typed/ActorRef.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/actor/ShirtActorSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="35" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/simple/Rest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/simple/PersonSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="e#16#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/actor/HealthCheckActor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor-typed_2.12/srcs/akka-actor-typed_2.12-2.5.12-sources.jar!/akka/actor/typed/ActorSystem.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="171" column="6" selection-start-line="171" selection-start-column="6" selection-end-line="171" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor-typed_2.12/srcs/akka-actor-typed_2.12-2.5.12-sources.jar!/akka/actor/typed/scaladsl/ActorContext.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="130" column="55" selection-start-line="130" selection-start-column="55" selection-end-line="130" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/simple/Person.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="78" column="45" selection-start-line="78" selection-start-column="45" selection-end-line="78" selection-end-column="45" />
+          <folding>
+            <element signature="e#16#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/actor/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+          <folding>
+            <element signature="e#15#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/actor/MainActor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding>
+            <element signature="e#15#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/actor/ShirtActor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#15#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>menu</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.16853933" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sbt: org.scala-lang:scala-library:2.12.6:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
